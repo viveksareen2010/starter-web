@@ -17,3 +17,15 @@ Sample website with plenty of files for demos
 ## Settings 
 
 ## Touch base
+
+## Dependencies
+
+## Criteria
+
+## Local
+
+## Global
+
+## Transaction 
+
+## Payment
