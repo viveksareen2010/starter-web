@@ -16,6 +16,8 @@ Sample website with plenty of files for demos
 
 ## Settings 
 
+Gte the things done
+
 ## Touch base
 
 ## Dependencies
