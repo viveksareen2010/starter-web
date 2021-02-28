@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 ## Purpose
 
 ## How to contribute
+
+## Deployement 
+
+## Settings 
+
+## Touch base
