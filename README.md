@@ -29,3 +29,7 @@ Sample website with plenty of files for demos
 ## Transaction 
 
 ## Payment
+
+###Copyright
+
+2014 copyright inc
