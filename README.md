@@ -38,4 +38,4 @@ Gte the things done
 
 ###Copyright
 
-2014 copyright inc
+2014 copyright inc. ALL right observed.
